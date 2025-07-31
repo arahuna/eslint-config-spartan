@@ -19,6 +19,7 @@ export const prefixes = /** @type {const} */ ({
   playwright: 'playwright',
   promise: 'promise',
   react: 'react',
+  reactTypeScript: '@eslint-react',
   reactHooks: 'react-hooks',
   regExp: 'regexp',
   security: 'security',

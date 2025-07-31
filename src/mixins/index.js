@@ -17,6 +17,7 @@ export * from './playwright.js';
 export * from './prettier.js';
 export * from './promise.js';
 export * from './react.js';
+export * from './reactTypescript.js';
 export * from './regExp.js';
 export * from './storybook.js';
 export * from './tailwindCss.js';
